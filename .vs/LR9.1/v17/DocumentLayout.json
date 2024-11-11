@@ -1,0 +1,123 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\hp\\source\\repos\\LR9.1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{09910941-84C1-4A8A-8564-7D4A3D481AA9}|LR9.1\\LR9.1.vcxproj|C:\\Users\\hp\\source\\repos\\LR9.1\\LR9.1\\var.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{09910941-84C1-4A8A-8564-7D4A3D481AA9}|LR9.1\\LR9.1.vcxproj|solutionrelative:LR9.1\\var.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09910941-84C1-4A8A-8564-7D4A3D481AA9}|LR9.1\\LR9.1.vcxproj|C:\\Users\\hp\\source\\repos\\LR9.1\\LR9.1\\var.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{09910941-84C1-4A8A-8564-7D4A3D481AA9}|LR9.1\\LR9.1.vcxproj|solutionrelative:LR9.1\\var.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09910941-84C1-4A8A-8564-7D4A3D481AA9}|LR9.1\\LR9.1.vcxproj|C:\\Users\\hp\\source\\repos\\LR9.1\\LR9.1\\func.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{09910941-84C1-4A8A-8564-7D4A3D481AA9}|LR9.1\\LR9.1.vcxproj|solutionrelative:LR9.1\\func.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09910941-84C1-4A8A-8564-7D4A3D481AA9}|LR9.1\\LR9.1.vcxproj|C:\\Users\\hp\\source\\repos\\LR9.1\\LR9.1\\func.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{09910941-84C1-4A8A-8564-7D4A3D481AA9}|LR9.1\\LR9.1.vcxproj|solutionrelative:LR9.1\\func.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09910941-84C1-4A8A-8564-7D4A3D481AA9}|LR9.1\\LR9.1.vcxproj|C:\\Users\\hp\\source\\repos\\LR9.1\\LR9.1\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{09910941-84C1-4A8A-8564-7D4A3D481AA9}|LR9.1\\LR9.1.vcxproj|solutionrelative:LR9.1\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{330D9A0A-FF79-4387-84DD-66C79FE561B5}|UnitTest1\\UnitTest1.vcxproj|C:\\Users\\hp\\source\\repos\\LR9.1\\UnitTest1\\UnitTest1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{330D9A0A-FF79-4387-84DD-66C79FE561B5}|UnitTest1\\UnitTest1.vcxproj|solutionrelative:UnitTest1\\UnitTest1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "main.cpp",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\LR9.1\\LR9.1\\main.cpp",
+              "RelativeDocumentMoniker": "LR9.1\\main.cpp",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\LR9.1\\LR9.1\\main.cpp",
+              "RelativeToolTip": "LR9.1\\main.cpp",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAmwCIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-07T12:37:43.023Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "func.h",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\LR9.1\\LR9.1\\func.h",
+              "RelativeDocumentMoniker": "LR9.1\\func.h",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\LR9.1\\LR9.1\\func.h",
+              "RelativeToolTip": "LR9.1\\func.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-11-07T13:16:38.658Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "func.cpp",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\LR9.1\\LR9.1\\func.cpp",
+              "RelativeDocumentMoniker": "LR9.1\\func.cpp",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\LR9.1\\LR9.1\\func.cpp",
+              "RelativeToolTip": "LR9.1\\func.cpp",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAowCcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-07T13:15:22.013Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "var.h",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\LR9.1\\LR9.1\\var.h",
+              "RelativeDocumentMoniker": "LR9.1\\var.h",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\LR9.1\\LR9.1\\var.h",
+              "RelativeToolTip": "LR9.1\\var.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-11-07T13:18:23.117Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "var.cpp",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\LR9.1\\LR9.1\\var.cpp",
+              "RelativeDocumentMoniker": "LR9.1\\var.cpp",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\LR9.1\\LR9.1\\var.cpp",
+              "RelativeToolTip": "LR9.1\\var.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-07T14:07:32.726Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UnitTest1.cpp",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\LR9.1\\UnitTest1\\UnitTest1.cpp",
+              "RelativeDocumentMoniker": "UnitTest1\\UnitTest1.cpp",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\LR9.1\\UnitTest1\\UnitTest1.cpp",
+              "RelativeToolTip": "UnitTest1\\UnitTest1.cpp",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAcwBMAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-11T13:31:23.891Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
